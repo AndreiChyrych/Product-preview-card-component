@@ -60,6 +60,10 @@ h1 {
   font-family: Fraunces, serif;
 }
 
+p {
+ color: hsl(228, 12%, 48%)
+}
+
 button {
   display: flex;
   background-color: hsl(158, 36%, 37%);
